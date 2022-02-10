@@ -3,7 +3,7 @@
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=satheeshkumar-a&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheeshkumar-a&layout=compact"/> -->
 
-- ✍ You can find my projects here [Portfolio](https://satheeshportfolio.netlify.app/)
+- ✍ You can find my projects here [Portfolio](https://satheeshkumarportfolio.netlify.app/)
 - 🌱 I’m currently learning MERN Stack 
 - 💬 Ask me about ... Anything
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/a-satheesh-kumar-4b92a2b4/)
